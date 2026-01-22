@@ -66,3 +66,6 @@ git clone [https://github.com/yourusername/financial-vision-rag.git](https://git
 
 # Launch Jupyter
 jupyter notebook vision_rag.ipynb
+
+# Download the pdf from the below link
+https://drive.google.com/file/d/193avc6RlaRn0UkwErmmUEMUFK-Ek7o14/view?usp=sharing
